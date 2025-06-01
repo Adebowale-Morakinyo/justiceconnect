@@ -1,0 +1,6 @@
+-r requirements.txt
+ipdb
+black
+commitizen
+pre-commit
+flake8

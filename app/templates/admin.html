@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Complaints Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id="complaints-chart" style="width:600px;height:250px;"></div>
+    
+    <table border="1">
+        <tr>
+            <th>Ref No.</th>
+            <th>Location</th>
+            <th>Status</th>
+            <th>Urgency</th>
+        </tr>
+        {% for complaint in complaints %}
+        <tr>
+            <td>{{ complaint.reference }}</td>
+            <td>{{ complaint.location }}</td>
+            <td>{{ complaint.status }}</td>
+            <td style="color: {% if complaint.urgency == 'HIGH' %}red{% else %}orange{% endif %}">
+                {{ complaint.urgency }}
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <script>
+        var data = [{
+            values: {{ urgency_counts|tojson }},
+            labels: {{ urgency_labels|tojson }},
+            type: 'pie'
+        }];
+        Plotly.newPlot('complaints-chart', data);
+    </script>
+</body>
+</html>
