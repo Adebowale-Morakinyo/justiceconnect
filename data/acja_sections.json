@@ -6,7 +6,7 @@
       "(1) The purpose of this Act is to ensure that the system of administration of criminal justice in Nigeria promotes efficient management of criminal justice institutions, speedy dispensation of justice, protection of the society from crime and protection of the rights and interests of the suspect, the defendant, and the victim.",
       "(2) The courts, law enforcement agencies and other authorities or persons involved in criminal justice administration shall ensure compliance with the provisions of this Act for the realisation of its purposes."
     ],
-    "pidgin": "Di main aim of dis Act na to make sure say how den dey handle criminal mata for Nigeria helep manage justice place well, make justice quick, protect pipo from bad bad pipo, and protect di right of person wey den suspect, person wey den dey accuse, and victim."
+    "pidgin_translation": "Di main aim of dis Act na to make sure say how den dey handle criminal mata for Nigeria helep manage justice place well, make justice quick, protect pipo from bad bad pipo, and protect di right of person wey den suspect, person wey den dey accuse, and victim."
   },
   {
     "section": "2",
@@ -15,7 +15,7 @@
       "(1) Without prejudice to section 86 of this Act, the provisions of this Act shall apply to criminal trials for offences established by an Act of the National Assembly and other offences punishable in the Federal Capital Territory, Abuja.",
       "(2) The provisions of this Act shall not apply to a Court Martial."
     ],
-    "pidgin": "Dis Act go apply for criminal case for offense wey National Assembly law talk about and oda offense wey den fit punish for Abuja. But e no go apply for Court Martial (army court)."
+    "pidgin_translation": "Dis Act go apply for criminal case for offense wey National Assembly law talk about and oda offense wey den fit punish for Abuja. But e no go apply for Court Martial (army court)."
   },
   {
     "section": "3",
@@ -23,7 +23,7 @@
     "content": [
       "A suspect or defendant alleged or charged with committing an offence established by an Act of the National Assembly shall be arrested, investigated, inquired into, tried or dealt with according to the provisions of this Act, except otherwise provided under this Act."
     ],
-    "pidgin": "If den suspect or accuse person say e do offense wey law of National Assembly talk about, na dis Act den go use arrest, check, ask question, try or deal with am, except if dis Act talk anoda thing."
+    "pidgin_translation": "If den suspect or accuse person say e do offense wey law of National Assembly talk about, na dis Act den go use arrest, check, ask question, try or deal with am, except if dis Act talk anoda thing."
   },
   {
     "section": "4",
@@ -31,7 +31,7 @@
     "content": [
       "In making an arrest, the police officer or other persons making the arrest shall actually touch or confine the body of the suspect, unless there is a submission to the custody by word or action."
     ],
-    "pidgin": "When police or any pesin dey arrest, dem must touch or hold di body of di suspect, except if di suspect gree by word or action say dem don catch am."
+    "pidgin_translation": "When police or any pesin dey arrest, dem must touch or hold di body of di suspect, except if di suspect gree by word or action say dem don catch am."
   },
   {
     "section": "5",
@@ -42,7 +42,7 @@
       "(b) the restraint is considered necessary for the safety of the suspect or defendant; or",
       "(c) by order of a court."
     ],
-    "pidgin": "Dem no suppose handcuff, tie or hold suspect or defendant except if: (a) e look like say gbege fit sele or di person wan run; (b) e dey important for di safety of di suspect or defendant; or (c) court talk say make dem do am."
+    "pidgin_translation": "Dem no suppose handcuff, tie or hold suspect or defendant except if: (a) e look like say gbege fit sele or di person wan run; (b) e dey important for di safety of di suspect or defendant; or (c) court talk say make dem do am."
   },
   {
     "section": "6",
@@ -55,7 +55,7 @@
       "(c) free legal representation by the Legal Aid Council of Nigeria where applicable:",
       "Provided the authority having custody of the suspect shall have the responsibility of notifying the next of kin or relative of the suspect of the arrest at no cost to the suspect."
     ],
-    "pidgin": "Police must tell you why dem arrest you, and say you get right to remain silent, see your lawyer before you talk or write anything, and get free lawyer if you no fit pay. Dem suppose tell your family say dem arrest you, for free."
+    "pidgin_translation": "Police must tell you why dem arrest you, and say you get right to remain silent, see your lawyer before you talk or write anything, and get free lawyer if you no fit pay. Dem suppose tell your family say dem arrest you, for free."
   },
   {
     "section": "7",
@@ -63,7 +63,7 @@
     "content": [
       "A person shall not be arrested in place of a suspect."
     ],
-    "pidgin": "Police no fit arrest person wey no do anything just because dem dey find anoda pesin."
+    "pidgin_translation": "Police no fit arrest person wey no do anything just because dem dey find anoda pesin."
   },
   {
     "section": "8",
@@ -73,7 +73,7 @@
       "(a) be accorded humane treatment, having regard to his right to the dignity of his person; and",
       "(b) not be subjected to any form of torture, cruel, inhuman or degrading treatment."
     ],
-    "pidgin": "Pidgin translation for Humane treatment of arrested suspect: Dem suppose treat pesin wey dem arrest well well, make dem no suffer am."
+    "pidgin_translation": "Dem must treat any suspect like human being, make dem no torture am or do am bad thing."
   },
   {
     "section": "9",
@@ -82,7 +82,7 @@
       "(1) Where a police officer or a private person arrests a suspect, he may search the suspect, and place in safe custody all articles other than personal effects found on him.",
       "(2) Where an arrested suspect is taken to a police station, the police officer in charge of the station or an officer delegated by him for that purpose, may search the suspect and place in safe custody all articles other than personal effects found on him: Provided that a female suspect shall only be searched by a woman police officer."
     ],
-    "pidgin": "Pidgin translation for Search of arrested suspect: If dem arrest you, police fit search you, but na woman police suppose search woman."
+    "pidgin_translation": "If dem arrest you, dem fit search you and keep your things safe. But na woman go search woman."
   },
   {
     "section": "10",
@@ -93,7 +93,7 @@
       "(3) Where the suspect refuses to sign or thumb print the inventory, the police officer shall record that fact and the inventory shall be signed by the police officer who made the inventory and an independent witness.",
       "(4) A copy of the inventory shall be given to the suspect."
     ],
-    "pidgin": "Pidgin translation for Inventory of property of arrested suspect: If dem search you and find property, dem go write am down, you go sign, and dem go give you copy."
+    "pidgin_translation": "If dem search you and collect your property, dem go list everything, you go sign am, and dem go give you copy."
   },
   {
     "section": "11",
@@ -105,7 +105,7 @@
       "(4) An examination under this section may include the taking of specimen from the body of the suspect.",
       "(5) The result of an examination carried out under this section shall be made available to the suspect and the legal practitioner of the suspect on request."
     ],
-    "pidgin": "Pidgin translation for Examination of arrested suspect: Doctor fit check your body if police think say e go show evidence, but na woman doctor suppose check woman. Dem fit take sample from your body."
+    "pidgin_translation": "Doctor fit check your body if police think say e go help find evidence. If you be woman, na woman doctor go check you. Dem fit take sample, and you fit collect the result."
   },
   {
     "section": "12",
@@ -114,7 +114,7 @@
       "(1) Where a suspect against whom a warrant of arrest is issued or a police officer has authority to arrest, has reason to believe that the suspect has entered into or is within any house or place, the person residing in or in charge of the house or place shall, on demand by the police officer or person executing the warrant, allow him free access into the house or place and afford all reasonable facilities to search the house or place for the suspect sought to be arrested.",
       "(2) Where access to a house or place cannot be obtained under subsection (1) of this section, the police officer or person executing the warrant may enter the house or place and search it for the suspect and in order to effect an entrance into the house or place, may break open any outer or inner door or window of the house or place, if after notification of his authority and purpose, and demand of admittance duly made, he cannot otherwise obtain admittance."
     ],
-    "pidgin": "Pidgin translation for Search of place entered by suspect: If police believe say suspect dey inside house, person for dat house must let police enter. If not, police fit break door enter."
+    "pidgin_translation": "If police believe say suspect hide for one house, the person for that house must allow dem enter. If dem no gree, police fit break door enter."
   },
   {
     "section": "13",
@@ -122,7 +122,7 @@
     "content": [
       "A police officer or any other person authorised to make an arrest may break out of any house or place in order to liberate himself or any other person who, having lawfully entered for the purpose of making an arrest, is detained in the house or place."
     ],
-    "pidgin": "Pidgin translation for Power to break out for liberation: If police enter house to arrest and person lock dem inside, dem fit break out."
+    "pidgin_translation": "If police enter house legally and person lock dem inside, dem fit break door or window take escape."
   },
   {
     "section": "14",
@@ -131,7 +131,7 @@
       "(1) A suspect who is arrested, whether with or without a warrant, shall be taken immediately to a police station, or other place for the reception of suspect, and shall be promptly informed of the allegation against him.",
       "(2) A person who has the custody of an arrested suspect shall give the suspect reasonable facilities for obtaining legal advice, access to communication for taking steps to furnish bail, and otherwise making arrangements for his defence or release."
     ],
-    "pidgin": "Pidgin translation for Arrested suspect to police station: If dem arrest you, dem must carry you go police station quick quick, tell you wetin you do, and allow you call lawyer or family for bail."
+    "pidgin_translation": "If dem arrest you, dem must carry you go police station quick, tell you wetin you do, and give you chance to call lawyer or arrange for bail."
   },
   {
     "section": "15",
@@ -149,7 +149,7 @@
       "(iv) any other means of identification.",
       "(3) The information shall be entered in a record book to be kept for that purpose for the police station or agency, and the suspect’s photograph and fingerprint impressions may be entered in the criminal record."
     ],
-    "pidgin": "Pidgin translation for Recording of arrests: Police go record your name, address, why dem arrest you, and take your picture and fingerprint."
+    "pidgin_translation": "Police go write your full details—why dem arrest you, your name, address, height, take your picture and fingerprint, and enter everything for record book."
   },
   {
     "section": "16",
@@ -165,7 +165,7 @@
       "(e) date and place of conviction, sentence or other disposition of the case.",
       "(4) The information kept in the Central Criminal Records Registry shall be made available to courts and law enforcement agencies where necessary."
     ],
-    "pidgin": "Pidgin translation for Central Criminal Records Registry: Police go get one big office wey dem go keep all information about people wey dem arrest and convict."
+    "pidgin_translation": "Police go get big office wey go store all record of people wey dem don arrest or convict—like name, fingerprint, picture, DNA and wetin the person do."
   },
   {
     "section": "17",
@@ -177,7 +177,7 @@
       "(4) The statement of the suspect shall be recorded in writing by the investigating police officer or any police officer so designated.",
       "(5) The suspect shall also be given the opportunity to make his statement in the language he understands."
     ],
-    "pidgin": "Pidgin translation for Recording of statement of suspects: If you wan make statement, dem go take am, and your lawyer or person you choose fit dey there. If you no sabi English, dem go find interpreter."
+    "pidgin_translation": "If dem arrest you and you wan talk, dem go write wetin you talk. You fit get lawyer or trusted person with you. If you no sabi English, interpreter go help. You fit talk for language wey you understand."
   },
   {
     "section": "18",
@@ -197,7 +197,7 @@
       "(k) who is reasonably suspected of being in unlawful possession of a suspicious or stolen item.",
       "(2) The authority given to a police officer to arrest a suspect without a warrant by virtue of subsection (1) (a) of this section shall not apply to an offence, which is a misdemeanour or a simple offence."
     ],
-    "pidgin": "Pidgin translation for Arrest by police without warrant: Police fit arrest person without warrant for many reasons, like if dem suspect say you commit serious crime or you get stolen property."
+    "pidgin_translation": "Police fit arrest person without warrant if dem get reason to believe say the person commit serious crime, hold stolen property, run from custody, carry weapon without excuse, or do any suspicious thing."
   },
   {
     "section": "19",
@@ -208,7 +208,7 @@
       "(3) Where the suspect refuses or fails to furnish his correct name or residential address, the Magistrate may order his remand in prison custody for a period not exceeding 7 days or until he furnishes his correct name and residential address.",
       "(4) Where the suspect furnishes his correct name and residential address, the Magistrate shall order his release from custody and may deal with him in accordance with the provisions of this Act."
     ],
-    "pidgin": "Pidgin translation for Refusal to give name: If you refuse to give your name and address or you give fake one, police fit carry you go court."
+    "pidgin_translation": "If police arrest you and you no gree talk your name or address, or you lie, dem fit carry you go Magistrate. If you no still talk true, court fit send you go prison small until you talk correct one."
   },
   {
     "section": "20",
@@ -220,7 +220,7 @@
       "(4) Where the police officer is satisfied that there is sufficient reason to believe that the suspect handed over has committed an indictable offence for which the police may arrest without warrant, the police officer shall re-arrest him.",
       "(5) Where the police officer is satisfied that there is no sufficient reason to believe that the suspect has committed an offence, he shall be released immediately."
     ],
-    "pidgin": "Pidgin translation for Arrest by private persons: Normal person fit arrest you if you commit serious crime for their front, but dem must hand you over to police quick."
+    "pidgin_translation": "If you see person commit serious crime, you fit arrest am as normal citizen, but you must carry am go police station quick. Police go check if the arrest make sense, if e no make sense, dem go release am."
   },
   {
     "section": "21",
@@ -228,7 +228,7 @@
     "content": [
       "The owner of a property or his servants may arrest any person found committing an offence involving injury to his property."
     ],
-    "pidgin": "Pidgin translation for Arrest by owner of property: If you damage person property, di owner or im workers fit arrest you."
+    "pidgin_translation": "If person dey damage your property, you or your workers fit arrest am."
   },
   {
     "section": "22",
@@ -236,7 +236,7 @@
     "content": [
       "A private person may arrest any suspect found damaging public property."
     ],
-    "pidgin": "Pidgin translation for Arrest for damaging public property: Any person fit arrest you if dem see you dey damage government property."
+    "pidgin_translation": "If you see person dey spoil government property, you fit arrest am as normal person."
   },
   {
     "section": "23",
@@ -247,7 +247,7 @@
       "(3) Where a suspect arrested by a private person is handed over to a police station, the officer in charge of the station shall take note of the particulars of the suspect and the person who arrested him.",
       "(4) Where there is no sufficient reason to believe that the suspect has committed any offence, he shall be released immediately."
     ],
-    "pidgin": "Pidgin translation for Handing over by private person: If normal person arrest you, dem must give you to police sharp sharp."
+    "pidgin_translation": "If normal person arrest you, dem must carry you go give police without delay. If you lie about your name or address, police fit handle you like section 19 talk. If you no do any wrong, dem go release you."
   },
   {
     "section": "24",
@@ -255,7 +255,7 @@
     "content": [
       "When an offence is committed in the presence of a Judge or Magistrate, he may himself arrest or order any person to arrest the suspect and may thereupon, subject to the provisions of this Act as to bail, commit the suspect to custody."
     ],
-    "pidgin": "Pidgin translation for Offence in presence of Judge: If you commit crime for front of Judge or Magistrate, dem fit arrest you or order make dem arrest you."
+    "pidgin_translation": "If you commit crime for front of Judge or Magistrate, dem fit arrest you by themselves or tell person make e arrest you, and dem fit send you go custody."
   },
   {
     "section": "25",
@@ -264,7 +264,7 @@
       "(1) A Magistrate may arrest or direct the arrest in his presence of a suspect whose arrest is for an offence committed in his presence, or for which he is competent at the time and in the circumstances to issue a warrant of arrest.",
       "(2) A Magistrate making an arrest under subsection (1) of this section shall, unless the offence is one for which he may himself grant bail, commit the suspect to custody until he can be brought before a court having jurisdiction."
     ],
-    "pidgin": "Pidgin translation for Arrest by Magistrate: Magistrate fit arrest person wey commit crime for im front or wey e fit issue warrant for."
+    "pidgin_translation": "Magistrate fit arrest person wey commit offence for im front or wey e suppose issue warrant for. If na serious matter, Magistrate go put the person for custody until proper court handle the case."
   },
   {
    "section": "26",
@@ -272,7 +272,7 @@
     "content": [
       "A Judge, Magistrate or Justice of the Peace may arrest or direct the arrest of a suspect committing an offence in his presence, or for which he is competent at the time and in the circumstances to issue a warrant of arrest."
     ],
-    "pidgin": "Judge, Magistrate, or Justice of the Peace fit arrest person or order make dem arrest person wey commit crime for their front, or person wey dem fit issue warrant for."
+    "pidgin_translation": "Judge, Magistrate, or Justice of the Peace fit arrest person or order make dem arrest person wey commit crime for their front, or person wey dem fit issue warrant for."
   },
   {
     "section": "27",
@@ -281,7 +281,7 @@
       "(1) Every person is bound to assist a Judge, Magistrate, Justice of the Peace, police officer or other officer of court or a local government staff or any other person authorised to make arrest, when called upon by any of them to assist in the arrest of a suspect, or in the prevention of a breach of the peace, or in the suppression of a riot or affray, or in the prevention of any injury being done to any public property.",
       "(2) A person who, without reasonable excuse, fails to assist as provided in subsection (1) of this section, commits an offence and is liable on conviction to a fine not exceeding N50,000.00 or imprisonment for a term not exceeding 3 months or both."
     ],
-    "pidgin": "Everybody suppose helep Judge, police, or any officer wey dem call upon to assist in arrest, stop fight, or protect government property. If you no helep without good reason, you fit pay fine or go prison."
+    "pidgin_translation": "Everybody suppose helep Judge, police, or any officer wey dem call upon to assist in arrest, stop fight, or protect government property. If you no helep without good reason, you fit pay fine or go prison."
   },
   {
     "section": "28",
@@ -290,7 +290,7 @@
       "(1) A suspect who escapes or is being pursued after committing an offence in Nigeria or for whom a warrant has been issued in Nigeria, may be arrested in any other part of Nigeria.",
       "(2) Where an offence is committed by a suspect in one state and the suspect escapes to another state, a warrant may be issued in the state where the offence was committed, and the warrant may be executed in the state where the suspect is apprehended."
     ],
-    "pidgin": "If person commit crime for one place for Nigeria and run go anoda place, dem fit still arrest am there. If court issue warrant for am for one state, dem fit use am arrest am for anoda state."
+    "pidgin_translation": "If person commit crime for one place for Nigeria and run go anoda place, dem fit still arrest am there. If court issue warrant for am for one state, dem fit use am arrest am for anoda state."
   },
   {
     "section": "29",
@@ -299,7 +299,7 @@
       "(1) The Inspector-General of Police and the heads of other law enforcement agencies shall, on the last working day of every quarter, remit to the Attorney-General of the Federation a record of all arrests made in relation to Federal offences.",
       "(2) The Attorney-General of the Federation shall, upon request by the National Human Rights Commission, the Legal Aid Council of Nigeria or a Non-Governmental Organization, make the report available to them."
     ],
-    "pidgin": "Police boss and other law enforcement agencies go send report every three months to di Attorney-General of di Federation about all arrests dem make for federal crimes. Di Attorney-General fit give dis report to Human Rights Commission or other groups if dem ask for am."
+    "pidgin_translation": "Police boss and other law enforcement agencies go send report every three months to di Attorney-General of di Federation about all arrests dem make for federal crimes. Di Attorney-General fit give dis report to Human Rights Commission or other groups if dem ask for am."
   },
   {
     "section": "30",
@@ -310,7 +310,7 @@
       "(b) be released on bail on his executing a bond, with or without sureties as the police officer in charge of the station or any other police officer authorised by him may deem fit, for his appearance before a court or to appear at such other place and at such time as may be specified in the bond.",
       "(2) The police officer in charge of the station or any other police officer authorised by him, may before admitting the suspect to bail, inquire into the suitability of the sureties or the sufficiency of the bond."
     ],
-    "pidgin": "If dem arrest you without warrant for crime wey no carry death sentence, police fit release you on bail with or without pesin wey go stand for you (surety). Police fit check if di surety or di bond amount dey okay before dem release you."
+    "pidgin_translation": "If dem arrest you without warrant for crime wey no carry death sentence, police fit release you on bail with or without pesin wey go stand for you (surety). Police fit check if di surety or di bond amount dey okay before dem release you."
   },
   {
     "section": "31",
@@ -318,7 +318,7 @@
     "content": [
       "A police officer or any other officer authorised to make an arrest, may at any time before a charge is accepted by the appropriate authority, release a suspect arrested on bail, with or without sureties, on his entering into a recognizance or executing a bond for his appearance before a court or to appear at such other place and at such time as may be specified in the recognizance or bond."
     ],
-    "pidgin": "Police fit release person wey dem arrest on bail, with or without surety, before dem even charge am, once e sign agreement to show for court or any other place dem mention."
+    "pidgin_translation": "Police fit release person wey dem arrest on bail, with or without surety, before dem even charge am, once e sign agreement to show for court or any other place dem mention."
   },
   {
     "section": "32",
@@ -327,7 +327,7 @@
       "(1) Where a suspect taken into custody without warrant for an offence other than an offence punishable with death is not released on bail within 24 hours from the time of his arrest, a Magistrate having jurisdiction in the place where the suspect is arrested or detained shall inquire into the circumstances constituting the arrest, and if satisfied that there are no reasonable grounds for the continued detention of the suspect, may make an order for his release from custody, with or without conditions.",
       "(2) Where the suspect is not released on bail within 48 hours of his arrest, the suspect shall be taken to the nearest Magistrate Court within the jurisdiction for a remand order."
     ],
-    "pidgin": "If dem arrest you without warrant for crime wey no carry death sentence and dem no release you on bail after 24 hours, Magistrate go check your case. If dem see say no good reason to still hold you, dem fit order your release. If dem no release you after 48 hours, dem must carry you go Magistrate court for remand order."
+    "pidgin_translation": "If dem arrest you without warrant for crime wey no carry death sentence and dem no release you on bail after 24 hours, Magistrate go check your case. If dem see say no good reason to still hold you, dem fit order your release. If dem no release you after 48 hours, dem must carry you go Magistrate court for remand order."
   },
   {
     "section": "33",
@@ -340,7 +340,7 @@
       "(5) Where no report is made in accordance with subsection (1) of this section, the Magistrate shall forward a report to the Chief Judge of the State and the Attorney-General of the State for appropriate remedial action.",
       "(6) With respect to the Federal Capital Territory, Abuja, such report referred to in subsection (5) of this section shall be forwarded to the Chief Judge of the Federal Capital Territory and the Attorney-General of the Federation for appropriate remedial action."
     ],
-    "pidgin": "Police and other arrest agencies must report to di nearest Magistrate every month about all suspects dem arrest without warrant, whether dem don get bail or not. Dis report go get details of di suspects. Di Magistrate go send am to Criminal Justice Monitoring Committee, and di Attorney-General of di Federation fit give dis report to human rights groups."
+    "pidgin_translation": "Police and other arrest agencies must report to di nearest Magistrate every month about all suspects dem arrest without warrant, whether dem don get bail or not. Dis report go get details of di suspects. Di Magistrate go send am to Criminal Justice Monitoring Committee, and di Attorney-General of di Federation fit give dis report to human rights groups."
   },
   {
     "section": "34",
@@ -357,7 +357,7 @@
       "(4) The Chief Magistrate shall make a report to the Chief Judge of the State and the Attorney-General of the State on the visits.",
       "(5) With respect to the Federal Capital Territory, Abuja, such report referred to in subsection (4) of this section shall be forwarded to the Chief Judge of the Federal Capital Territory and the Attorney-General of the Federation for appropriate remedial action."
     ],
-    "pidgin": "Chief Magistrate go dey visit police stations every month to check arrest records, condition of suspects, and reasons for detention. Dem fit order bail or unconditional release if suspect don stay too long. Police must obey wetin Magistrate say. Chief Magistrate go report to di Chief Judge and Attorney-General."
+    "pidgin_translation": "Chief Magistrate go dey visit police stations every month to check arrest records, condition of suspects, and reasons for detention. Dem fit order bail or unconditional release if suspect don stay too long. Police must obey wetin Magistrate say. Chief Magistrate go report to di Chief Judge and Attorney-General."
   },
   {
     "section": "35",
@@ -366,7 +366,7 @@
       "(1) Where any suspect for whose appearance or arrest a court is competent to issue a summons or warrant is present in court, the court may arrest him or order his arrest.",
       "(2) The power of a court to issue a warrant of arrest shall not be affected by the fact that the suspect is already in custody for the same offence."
     ],
-    "pidgin": "If person wey court fit issue warrant for dey court, court fit arrest am or order im arrest. If person already dey prison for same crime, court fit still issue warrant."
+    "pidgin_translation": "If person wey court fit issue warrant for dey court, court fit arrest am or order im arrest. If person already dey prison for same crime, court fit still issue warrant."
   },
   {
     "section": "36",
@@ -376,7 +376,7 @@
       "(2) Every warrant shall state shortly the offence for which it is issued, and shall name or otherwise describe the suspect, and shall order the suspect to be arrested and brought before the court issuing the warrant, or before some other court having jurisdiction in the case, to answer the complaint or information, and to be dealt with according to law.",
       "(3) Every warrant of arrest shall remain in force until it is executed or until it is cancelled by the court that issued it."
     ],
-    "pidgin": "Every arrest warrant go dey written, signed by Judge or Magistrate, and get court seal. E go brief about di crime, name di suspect, and order say make dem arrest am carry am come court. Warrant go dey valid until dem execute am or court cancel am."
+    "pidgin_translation": "Every arrest warrant go dey written, signed by Judge or Magistrate, and get court seal. E go brief about di crime, name di suspect, and order say make dem arrest am carry am come court. Warrant go dey valid until dem execute am or court cancel am."
   },
   {
     "section": "37",
@@ -384,7 +384,7 @@
     "content": [
       "A warrant of arrest may be issued on a complaint in writing and on oath."
     ],
-    "pidgin": "Dem fit only issue arrest warrant if person complain for written form and swear for God."
+    "pidgin_translation": "Dem fit only issue arrest warrant if person complain for written form and swear for God."
   },
   {
     "section": "38",
@@ -392,7 +392,7 @@
     "content": [
       "A warrant of arrest may be issued on any day, including a Sunday or public holiday."
     ],
-    "pidgin": "Dem fit issue arrest warrant any day, even Sunday or public holiday."
+    "pidgin_translation": "Dem fit issue arrest warrant any day, even Sunday or public holiday."
   },
   {
     "section": "39",
@@ -402,7 +402,7 @@
       "(2) A warrant directed to more than one police officer or peace officer may be executed by any one or more of them.",
       "(3) A warrant of arrest issued under this Act shall remain in force until it is executed or until it is cancelled by the court that issued it."
     ],
-    "pidgin": "Arrest warrant fit dey directed to one or more police officers or peace officers, by name or generally. Any of dem fit execute am. E go dey valid until dem execute am or court cancel am."
+    "pidgin_translation": "Arrest warrant fit dey directed to one or more police officers or peace officers, by name or generally. Any of dem fit execute am. E go dey valid until dem execute am or court cancel am."
   },
   {
     "section": "40",
@@ -411,7 +411,7 @@
       "(1) A court issuing a warrant of arrest may, if its immediate execution is necessary and no police officer or peace officer is immediately available, direct it to any other person.",
       "(2) The person to whom the warrant is directed may execute it."
     ],
-    "pidgin": "If quick arrest dey important and no police dey around, court fit tell any other person to execute di arrest warrant."
+    "pidgin_translation": "If quick arrest dey important and no police dey around, court fit tell any other person to execute di arrest warrant."
   },
   {
     "section": "41",
@@ -420,7 +420,7 @@
       "(1) Where a court has reason to believe that a suspect, against whom a warrant of arrest has been issued, has absconded or is concealing himself so that the warrant cannot be executed, the court may publish a public summons in writing.",
       "(2) The public summons shall require the suspect to appear at a specified place and time not less than 30 days from the date of publishing the public summons."
     ],
-    "pidgin": "If court believe say person wey get arrest warrant don run or dey hide, court fit publish public announcement for am to show face for specific place and time, no less than 30 days from when dem publish am."
+    "pidgin_translation": "If court believe say person wey get arrest warrant don run or dey hide, court fit publish public announcement for am to show face for specific place and time, no less than 30 days from when dem publish am."
   },
   {
     "section": "42",
@@ -433,7 +433,7 @@
       "(d) by any other means as the court may direct.",
       "(2) A statement in writing by the court issuing the public summons, to the effect that the public summons was duly published on a specified day, shall be conclusive evidence that the public summons was published on that day."
     ],
-    "pidgin": "Public announcement go dey put for suspect house, court, newspaper or other electronic media, and any other way court say. If court write say dem publish am, na true."
+    "pidgin_translation": "Public announcement go dey put for suspect house, court, newspaper or other electronic media, and any other way court say. If court write say dem publish am, na true."
   },
   {
     "section": "43",
@@ -442,7 +442,7 @@
       "(1) A warrant of arrest may be executed by any police officer or peace officer at any time and in any place in Nigeria.",
       "(2) The police officer or peace officer executing a warrant of arrest shall notify the suspect of the substance of the warrant, and, if required, shall show the suspect the warrant."
     ],
-    "pidgin": "Any police or peace officer fit execute arrest warrant anytime, anywhere for Nigeria. Di officer must tell suspect wetin di warrant be and show am if dem ask."
+    "pidgin_translation": "Any police or peace officer fit execute arrest warrant anytime, anywhere for Nigeria. Di officer must tell suspect wetin di warrant be and show am if dem ask."
   },
   {
     "section": "44",
@@ -451,7 +451,7 @@
       "(1) A warrant of arrest may be executed notwithstanding that it is not in the immediate possession of the police officer or peace officer executing it, but the suspect shall, if he so requires, be shown the warrant as soon as practicable.",
       "(2) The provisions of this section shall apply to a warrant issued by a court in Nigeria and to any other warrant which may be executed in Nigeria."
     ],
-    "pidgin": "Police fit arrest you with warrant even if dem no get am for hand dat time, but dem must show you di warrant as soon as dem fit. Dis rule dey for all warrants wey dem fit execute for Nigeria."
+    "pidgin_translation": "Police fit arrest you with warrant even if dem no get am for hand dat time, but dem must show you di warrant as soon as dem fit. Dis rule dey for all warrants wey dem fit execute for Nigeria."
   },
   {
     "section": "45",
@@ -463,7 +463,7 @@
       "(b) the amount in which they and the suspect are to be respectively bound; and",
       "(c) the date and time at which the suspect is to attend the court."
     ],
-    "pidgin": "Court wey dey issue arrest warrant fit write for di warrant say if suspect sign agreement with or without surety to show for court, di officer fit collect di security and release di suspect. Di endorsement go show how many sureties, how much dem go bind, and di date and time suspect go come court."
+    "pidgin_translation": "Court wey dey issue arrest warrant fit write for di warrant say if suspect sign agreement with or without surety to show for court, di officer fit collect di security and release di suspect. Di endorsement go show how many sureties, how much dem go bind, and di date and time suspect go come court."
   },
   {
     "section": "46",
@@ -472,7 +472,7 @@
       "(1) Where a warrant of arrest is executed outside the division or district of the court by which it was issued, the suspect shall, unless security is taken under section 45 of this Act, be taken before a court having jurisdiction in the division or district in which the arrest is made, or before a court having jurisdiction in the division or district in which the court that issued the warrant is situate, or before a court having jurisdiction in the division or district where the suspect is to be tried.",
       "(2) The court before which the suspect is taken shall, if the suspect is not bailable, commit him to custody, and if the suspect is bailable, and he is ready and willing to give bail to the satisfaction of the court, the court shall take such bail and forward the bond to the court by which the warrant was issued, and if he is not ready and willing to give bail, commit him to custody until he can be brought before the court by which the warrant was issued."
     ],
-    "pidgin": "If dem arrest person with warrant outside di court area wey issue am, dem go carry am go court for di area wey dem arrest am, or di court wey issue di warrant, or di court wey go try am. If e no fit get bail, dem go put am for prison. If e fit get bail and e ready, court go collect bail and send di bond to di court wey issue di warrant. If e no ready, dem go put am for prison until dem fit carry am go di court wey issue di warrant."
+    "pidgin_translation": "If dem arrest person with warrant outside di court area wey issue am, dem go carry am go court for di area wey dem arrest am, or di court wey issue di warrant, or di court wey go try am. If e no fit get bail, dem go put am for prison. If e fit get bail and e ready, court go collect bail and send di bond to di court wey issue di warrant. If e no ready, dem go put am for prison until dem fit carry am go di court wey issue di warrant."
   },
   {
     "section": "47",
@@ -480,7 +480,7 @@
     "content": [
       "A warrant issued by the Federal High Court may be executed in any part of Nigeria."
     ],
-    "pidgin": "Warrant wey Federal High Court issue fit dey executed anywhere for Nigeria."
+    "pidgin_translation": "Warrant wey Federal High Court issue fit dey executed anywhere for Nigeria."
   },
   {
     "section": "48",
@@ -490,7 +490,7 @@
       "(2) A person who escapes or is rescued from custody may be re-arrested without a fresh warrant.",
       "(3) The provisions of this section shall apply to a suspect who has escaped or is rescued from custody in Nigeria or from the custody of any other person lawfully arresting him in Nigeria."
     ],
-    "pidgin": "If person wey dem don arrest run or dem rescue am, di person wey dey hold am fit pursue and arrest am anywhere for Nigeria sharp sharp. Dem fit re-arrest am without new warrant. Dis rule dey for anybody wey run or wey dem rescue for Nigeria."
+    "pidgin_translation": "If person wey dem don arrest run or dem rescue am, di person wey dey hold am fit pursue and arrest am anywhere for Nigeria sharp sharp. Dem fit re-arrest am without new warrant. Dis rule dey for anybody wey run or wey dem rescue for Nigeria."
   },
   {
     "section": "49",
@@ -498,6 +498,6 @@
     "content": [
       "The provisions of sections 12 and 13 of this Act shall apply to arrests made under section 48 of this Act."
     ],
-    "pidgin": "Wetin section 12 and 13 talk go apply when dem dey arrest person wey run or wey dem rescue, as section 48 talk."
+    "pidgin_translation": "Wetin section 12 and 13 talk go apply when dem dey arrest person wey run or wey dem rescue, as section 48 talk."
   }
 ]

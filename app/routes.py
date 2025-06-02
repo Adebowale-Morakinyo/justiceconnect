@@ -6,16 +6,23 @@ from app.models import Complaint
 main_bp = Blueprint("main", __name__)
 
 
-@main_bp.route("/whatsapp", methods=["POST"])
+@main_bp.route("/whatsapp", methods=["GET", "POST"])
 def whatsapp_webhook():
-    incoming_msg = request.values.get("Body", "").lower()
-    sender = request.values.get("From", "")
+    if request.method == "GET":
+        # Twilio webhook verification
+        return "Webhook setup complete", 200
 
-    response = process_message(incoming_msg, sender)
-
-    twiml = MessagingResponse()
-    twiml.message(response)
-    return str(twiml)
+    # Handle POST requests
+    try:
+        response = process_message(request.form, request.form.get("From"))
+        twiml = MessagingResponse()
+        twiml.message(response)
+        return str(twiml), 200
+    except Exception as e:
+        error_msg = f"Error: {str(e)}"
+        twiml = MessagingResponse()
+        twiml.message(error_msg)
+        return str(twiml), 500
 
 
 @main_bp.route("/admin")
